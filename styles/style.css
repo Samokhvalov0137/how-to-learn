@@ -195,7 +195,7 @@
   position: relative;
   margin-top: 100px;
   height: 100vh;
-  background-size: 45%;
+  z-index: 0;
 }
 
 .feynman__title{
@@ -207,6 +207,7 @@
   font-size: 120px;
   font-weight: bolder;
   color: #000000;
+  z-index: 1;
 }
 
 .feynman__subtitle{
@@ -216,6 +217,7 @@
   font-size: 36px;
   font-weight: normal;
   color: #000000;
+  z-index: 1;
 }
 
 .feynman__link{
@@ -228,6 +230,7 @@
   font-weight: normal;
   text-decoration: none;
   color: #2f80ed;
+  z-index: 1;
 }
 
 
