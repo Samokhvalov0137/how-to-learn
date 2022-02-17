@@ -130,9 +130,8 @@
 }
 
 .section-title{
-  margin: 0;
+  margin: 0 auto;
   width: 60%;
-  margin: auto;
   text-align: center;
   line-height: 1.15;
   font-size: 60px;
@@ -140,9 +139,8 @@
 }
 
 .section-subtitle{
-  margin: 0;
+  margin: 0 auto;
   width: 60%;
-  margin: auto;
   text-align: center;
   margin-top: 20px;
   line-height: 34px;
