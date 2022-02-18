@@ -185,7 +185,7 @@
   background-position: bottom left;
   background-size: 867px 637px;
   position: relative;
-  min-height: 637px;
+  min-height: 890px;
   margin-top: 100px;
   z-index: 0;
 }
@@ -246,7 +246,6 @@
 }
 
 .table_theme_dark{
-  margin-bottom: 90px;
   z-index: 2;
   position: relative;
 }
