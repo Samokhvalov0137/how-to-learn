@@ -1,0 +1,11 @@
+.two-columns__paragraph{
+  margin: 0;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  color: #000000;
+}
+
+.two-columns__paragraph:nth-of-type(2n){
+  margin: 30px 0px;
+}
